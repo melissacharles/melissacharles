@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m @melissacharles
-- 👀 All things data analytics and automation.
+- 👀 All things Data and ML.
 - 🌱 MSc. Artificial Intelligence and Machine Learning student (grad date: 9/2023)
 - 📫 melissacharles.py@gmail.com
 - 🔗 www.linkedIn.com/in/MelissaWCharles
