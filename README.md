@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m @melissacharles
-- 👀 All things Cloud and Automation.
-- 🌱 MSc. Artificial Intelligence and Machine Learning student. (grad. 2023)
+- 👀 All things ML, Cloud and DevOps.
+- 🌱 MSc. Artificial Intelligence and Machine Learning student
 - 📫 melissacharles.py@gmail.com
 - 🔗 www.linkedIn.com/in/MelissaWCharles
 
