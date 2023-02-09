@@ -2,7 +2,7 @@
 - 💼 Digital Services Manager, Ops
 - ✅ Certified AWS Solutions Architect + Developer.
 - 👀 Curious about all things DevOps + Machine Learning.
-- 🌱 MSc. Artificial Intelligence and Machine Learning.
+- 📚 MSc. Artificial Intelligence and Machine Learning.
 <!---
 melissacharles/melissacharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
