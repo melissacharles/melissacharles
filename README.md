@@ -1,7 +1,4 @@
 - 👋🏼 Hi, I’m Melissa
-- 💼 Digital Services Manager, Ops
-- ✅ Certified AWS Solutions Architect + AWS DevOps Engineer Pro.
-- 👀 Curious about all things DevOps + AI.
 - 📚 MSc. Artificial Intelligence and Machine Learning Grad
 <!---
 melissacharles/melissacharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
